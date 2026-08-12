@@ -1,0 +1,12 @@
+streamlit>=1.35
+streamlit-autorefresh>=1.0.1
+requests>=2.31
+pandas>=2.0
+plotly>=5.20
+
+# For training the learned quality model (ml/train_model.py) -- not needed
+# just to run the dashboard with the heuristic scorer.
+# pybaseball>=2.2
+# lightgbm>=4.0
+# scikit-learn>=1.3
+# joblib>=1.3
